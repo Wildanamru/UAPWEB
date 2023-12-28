@@ -1,0 +1,27 @@
+body {
+    
+    margin: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#product-list {
+    width: 100%;
+}
+
+#product-list th, #product-list td {
+    border: 1px solid #ddd;
+    padding: 5px;
+    text-align: left;
+}
+
+#total {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#produkk {
+    margin-bottom: 20px;
+}
